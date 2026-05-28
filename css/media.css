@@ -1,0 +1,244 @@
+.thanks{
+    padding-right: 20px;
+}
+.thanks h2{
+    margin-top:22px;
+}
+.popup{
+    width:400px;
+}
+.popup__content{
+    padding:18px;
+}
+.popup_btn{
+    margin-bottom: 4px;
+}
+.order_form{
+    padding:8px 25px;
+}
+.main p{
+    font-size:18px;
+    margin-top:28px;
+}
+.info{
+    margin-top:20px;
+}
+.order_form p{
+    font-size: 14px;
+    margin: 12px 0 20px 0;
+}
+.main h2{
+    margin-top: 40px;
+    line-height: 46px;
+}
+.order_form h3{
+    font-size:24px;
+    margin-bottom:20px;
+}
+.right p{
+    width: 400px;
+    padding: 20px 40px;
+    left:330px;
+}
+.text_manager{
+    right:0px;
+}
+.footer_form p{
+    margin: 0 0 0 20px;
+    font-size:12px;
+}
+.order_form button{
+    height: 70px;
+    border-radius: 35px;
+    font-size: 18px;
+    
+}
+.text_manager p{
+    font-size:14px;
+    left:380px;
+    bottom:50px;
+}
+.form_wrapper{
+    margin: 40px 0 0 32px;
+}
+.manager img{
+    width:400px;
+    height:360px;
+}
+.footer_form{
+    margin-top:26px;
+}
+@media (max-width: 991px){
+    .manager{
+        right:30px;
+    }
+ 
+    .manager img{
+        width: 360px;
+        height: 324px;
+    }
+    .right p{
+        right:30px;
+    }
+    p{
+        font-size:14px;
+    }
+    h2{
+        font-size: 26px;
+    }
+    .main h2{
+        line-height: 34px;
+    }
+    .main p{
+        font-size: 16px;
+        margin-top: 22px
+    }
+    .main h2, main p{
+        width:100%;
+    }
+    .info span{
+        font-size:18px;
+    }
+    .thanks p{
+        margin:15px 0 25px 0;
+    }
+    .form_wrapper{
+        margin:35px 0 0 10px;
+    }
+    .popup{
+        width:320px;
+    }
+    .popup__content{
+        padding:8px;
+    }
+    .text_manager p{
+        left:340px;
+        width:160px;
+        font-size:14px;
+    }
+    .popup__content-image{
+        margin: 3px 15px 3px 5px;
+    }
+    .popup__content-title{
+        font-size: 16px;
+    }
+    .popup__content-paragraph{
+        font-size:14px;
+    }
+    .popup_btn{
+        min-width: 100px;
+    }
+    .popup__content-buttons{
+        margin-top:11px;
+    }
+    .order_form{
+        padding: 5px 12px;
+        text-align: center;
+    }
+    .order_form h3{
+        font-size: 20px;
+    }
+    .order_form p{
+        font-size: 14px;
+        text-align: center;
+    }
+    input{
+        font-size: 14px;
+        height: 40px;
+        margin:5px 20%;
+        width:60%;
+    }
+    .order_form button{
+        margin:20px 30%;
+        width:40%;
+        height: 54px;
+        border-radius: 27px;
+        font-size: 16px;
+    }
+    .footer_form p{
+        font-size: 12px;
+        line-height: 16px;
+        margin: 0 0 0 15px;
+    }
+    .form_wrapper{
+        margin:0 0 20px 0;
+    }
+    .footer_form p{
+        text-align: left;
+    }
+    .footer_form{
+        width:50%;
+        margin: 10px auto;
+    }
+}
+@media (max-width: 767px){
+    .thanks{
+        text-align: center;
+        border-bottom: 1px dashed;
+    }
+    .discount{
+   overflow-x: hidden; 
+}
+    .info{
+        text-align: center;
+        margin-bottom:15px;
+    }
+    .popup{
+        width:100%;
+        margin: 0 auto;
+        left:0;
+    }
+    h2{
+       font-size: 22px; 
+    }
+    .main h2{
+        margin-top: 25px;
+    }
+    .main p{
+        font-size:14px;
+        margin-top:18px;
+    }
+    br{
+        display: none;
+    }
+    .manager img{
+        width:252px;
+        height:227px;
+    }
+    .manager{
+        right:70px;
+    }
+    .right p{
+        width:60%;
+        top:-15px;
+        left:210px;
+        padding:15px;
+        font-size:12px;
+    }
+    .right p:before{
+        
+        top:20px;
+        width:80px;
+        left:-65px;
+    }
+    .text_manager br{
+        display: block;
+    }
+
+    .text_manager p{
+        font-size: 12px;
+        left:230px;
+    }
+    input, .order_form button{
+        width:100%;
+        margin: 0 0 15px 0;
+    }
+    .footer_form{
+        width:100%;
+        margin-top:20px;
+    }
+    .footer_form p{
+        font-size:12px;
+        margin: 0 0 0 15px;
+    }
+}

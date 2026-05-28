@@ -1,0 +1,206 @@
+.clear:after, .container:after {
+  clear: both
+}
+header, section {
+  position: relative
+}
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline
+}
+* {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block
+}
+img {
+  max-width: 100%
+}
+html, body {
+  min-height: 100%;
+  height: auto;
+  width: 100%;
+}
+body {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  color: #000000;
+  margin: auto;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fafef4+0,9c7f55+100 */
+  background: #fafef4;
+  /* Old browsers */
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #fafef4 0%, #9c7f55 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #fafef4 0%, #9c7f55 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fafef4', endColorstr='#9c7f55', GradientType=0);
+  /* IE6-9 */
+}
+.bold, b {
+  font-weight: 700
+}
+ol, ul {
+  list-style: none
+}
+blockquote, q {
+  quotes: none
+}
+blockquote:after, blockquote:before, q:after, q:before {
+  content: '';
+  content: none
+}
+.clear {
+  clear: both;
+}
+.clear:after, .clear:before, .container:after, .container:before {
+  content: "";
+  display: table
+}
+i {
+  font-style: italic;
+}
+.wrap {
+  max-width: 1200px;
+  height: 100%;
+  padding: 0 15px 80px;
+  margin: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+ 
+h3{font-size:1.2rem; font-weight:bold; margin-bottom: 10px;}
+
+p{
+	font-size: 18px; 
+	line-height: 1.5;
+	font-weight: 600;
+}
+.main-content {
+  background-color: rgba(255, 255, 255, 0.42);
+}
+.main-content__title {
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 38px;
+  border-bottom: 1px dashed #A2A29F;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 45px 15px 20px;
+  margin-bottom: 20px;
+}
+.main-content__description {
+  font-size: 22px;
+  line-height: 24px;
+  font-weight: bold;
+  text-align: center;
+  max-width: 1100px;
+  margin: 0 auto 30px;
+}
+ 
+.main-content .steps{
+	padding: 20px 20px 20px;
+}
+
+.table-responsive{
+	padding: 10px 0 20px 0;
+}
+table{
+	border-collapse: collapse;
+	border: 1px solid #000;
+}
+table th, table td {
+	border-top: 1px solid grey;
+	border-bottom: 1px solid grey;
+	padding: 10px 20px;
+	vertical-align: middle;
+} 
+table td i, table td span{
+	vertical-align: middle;
+}
+table i.success{
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background: url('check.svg') no-repeat center center;
+	background-size: cover;
+}
+table i.reject{
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background: url('ban.svg') no-repeat center center;
+	background-size: cover;
+}
+table i+span{
+	padding-left: 5px;
+}
+
+form.horizontal-form {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+input.form-input, button.form-button {
+    padding: 7px 7px;
+    border-radius: 2px;
+    outline: none;
+    box-shadow: none;
+    border: none;
+    font-size: 14px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+button.form-button{
+    cursor: pointer;
+}
+@media (max-width: 992px) {
+  .wrap {
+    max-width: 768px;
+  }
+   
+  .main-content__description {
+    padding: 0 30px;
+  }
+  .wrap {
+    display: block;
+  }
+  body, html {
+    height: auto;
+  }
+}
+@media (max-width: 620px) {
+   
+  .main-content__title {
+    font-size: 30px;
+    line-height: 32px;
+    padding: 30px 15px;
+  }
+  .main-content__description, .form-block__left-discount, .form-wrap__title {
+    font-size: 20px;
+    line-height: 22px;
+  }
+   
+}
+ 

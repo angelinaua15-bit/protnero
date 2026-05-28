@@ -1,0 +1,312 @@
+
+2025-10-24 14:42:31 | NEW ORDER
+{
+    "timestamp": "2025-10-24 14:42:31",
+    "order_id": "1761316951595566",
+    "name": "таня",
+    "phone": "+380937420114",
+    "country": "UA (авто-визначено по IP: 109.200.224.242)",
+    "api_key_set": "ТАК",
+    "full_data": {
+        "key": "63f1bda9312c1cac1caa08614c01e7b3",
+        "order_id": "1761316951595566",
+        "country": "UA",
+        "office": "1",
+        "products": "a%3A1%3A%7Bi%3A0%3Ba%3A3%3A%7Bs%3A10%3A%22product_id%22%3Bs%3A1%3A%225%22%3Bs%3A5%3A%22price%22%3Bs%3A4%3A%221100%22%3Bs%3A5%3A%22count%22%3Bs%3A1%3A%221%22%3B%7D%7D",
+        "bayer_name": "таня",
+        "phone": "+380937420114",
+        "email": "",
+        "comment": "",
+        "notification": "",
+        "delivery": "",
+        "delivery_adress": "",
+        "payment": "",
+        "sender": "a%3A46%3A%7Bs%3A4%3A%22USER%22%3Bs%3A7%3A%22keitaro%22%3Bs%3A4%3A%22HOME%22%3Bs%3A13%3A%22%2Fhome%2Fkeitaro%22%3Bs%3A11%3A%22HTTP_COOKIE%22%3Bs%3A450%3A%22utm_source%3D%257B%257Bsite_source_name%257D%257D%3B+utm_campaign%3D%257B%257Bcampaign.name%257D%257D%3B+PHPSESSID%3Dr6cqq7a4d1urkf7ut9bqvokt6g%3B+viewedOuibounceModal%3Dtrue%3B+_subid%3D1bauldr1nh0c%3B+a7eb3%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRhIjoie1wic3RyZWFtc1wiOntcIjQ3N1wiOjE3NjEzMTY5MjR9LFwiY2FtcGFpZ25zXCI6e1wiMTkyXCI6MTc2MTMxNjkyNH0sXCJ0aW1lXCI6MTc2MTMxNjkyNH0ifQ.t_tSmzwIoukelIoKuxAG86GOhGnk79I80gpAfXEi-P8%3B+_token%3Duuid_1bauldr1nh0c_1bauldr1nh0c68fb903ce0c237.91315969%22%3Bs%3A20%3A%22HTTP_ACCEPT_LANGUAGE%22%3Bs%3A44%3A%22ru-RU%2Cru%3Bq%3D0.9%2Cen-US%3Bq%3D0.8%2Cen%3Bq%3D0.7%2Cuk%3Bq%3D0.6%22%3Bs%3A20%3A%22HTTP_ACCEPT_ENCODING%22%3Bs%3A23%3A%22gzip%2C+deflate%2C+br%2C+zstd%22%3Bs%3A12%3A%22HTTP_REFERER%22%3Bs%3A249%3A%22https%3A%2F%2Fmrdick.online%2FYBNHRqfC%3Ffbclid%3D%7Bfbclid%7D%26utm_campaign%3D%7B%7Bcampaign.name%7D%7D%26utm_source%3D%7B%7Bsite_source_name%7D%7D%26utm_placement%3D%7B%7Bplacement%7D%7D%26campaign_id%3D%7B%7Bcampaign.id%7D%7D%26adset_id%3D%7B%7Badset.id%7D%7D%26ad_id%3D%7B%7Bad.id%7D%7D%26adset_name%3D%7B%7Badset.name%7D%7D%26ad_name%3D%7B%7Bad.name%7D%7D%22%3Bs%3A19%3A%22HTTP_SEC_FETCH_DEST%22%3Bs%3A8%3A%22document%22%3Bs%3A19%3A%22HTTP_SEC_FETCH_USER%22%3Bs%3A2%3A%22%3F1%22%3Bs%3A19%3A%22HTTP_SEC_FETCH_MODE%22%3Bs%3A8%3A%22navigate%22%3Bs%3A19%3A%22HTTP_SEC_FETCH_SITE%22%3Bs%3A11%3A%22same-origin%22%3Bs%3A11%3A%22HTTP_ACCEPT%22%3Bs%3A135%3A%22text%2Fhtml%2Capplication%2Fxhtml%2Bxml%2Capplication%2Fxml%3Bq%3D0.9%2Cimage%2Favif%2Cimage%2Fwebp%2Cimage%2Fapng%2C%2A%2F%2A%3Bq%3D0.8%2Capplication%2Fsigned-exchange%3Bv%3Db3%3Bq%3D0.7%22%3Bs%3A15%3A%22HTTP_USER_AGENT%22%3Bs%3A111%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F141.0.0.0+Safari%2F537.36%22%3Bs%3A30%3A%22HTTP_UPGRADE_INSECURE_REQUESTS%22%3Bs%3A1%3A%221%22%3Bs%3A17%3A%22HTTP_CONTENT_TYPE%22%3Bs%3A33%3A%22application%2Fx-www-form-urlencoded%22%3Bs%3A11%3A%22HTTP_ORIGIN%22%3Bs%3A21%3A%22https%3A%2F%2Fmrdick.online%22%3Bs%3A23%3A%22HTTP_SEC_CH_UA_PLATFORM%22%3Bs%3A9%3A%22%22Windows%22%22%3Bs%3A21%3A%22HTTP_SEC_CH_UA_MOBILE%22%3Bs%3A2%3A%22%3F0%22%3Bs%3A14%3A%22HTTP_SEC_CH_UA%22%3Bs%3A64%3A%22%22Google+Chrome%22%3Bv%3D%22141%22%2C+%22Not%3FA_Brand%22%3Bv%3D%228%22%2C+%22Chromium%22%3Bv%3D%22141%22%22%3Bs%3A18%3A%22HTTP_CACHE_CONTROL%22%3Bs%3A9%3A%22max-age%3D0%22%3Bs%3A19%3A%22HTTP_CONTENT_LENGTH%22%3Bs%3A4%3A%222165%22%3Bs%3A15%3A%22HTTP_CONNECTION%22%3Bs%3A10%3A%22keep-alive%22%3Bs%3A9%3A%22HTTP_HOST%22%3Bs%3A13%3A%22mrdick.online%22%3Bs%3A15%3A%22REDIRECT_STATUS%22%3Bs%3A3%3A%22200%22%3Bs%3A11%3A%22SERVER_NAME%22%3Bs%3A13%3A%22mrdick.online%22%3Bs%3A11%3A%22SERVER_PORT%22%3Bs%3A3%3A%22443%22%3Bs%3A11%3A%22SERVER_ADDR%22%3Bs%3A13%3A%22185.253.45.62%22%3Bs%3A11%3A%22REMOTE_PORT%22%3Bs%3A5%3A%2262271%22%3Bs%3A11%3A%22REMOTE_ADDR%22%3Bs%3A15%3A%22109.200.224.242%22%3Bs%3A15%3A%22SERVER_SOFTWARE%22%3Bs%3A12%3A%22nginx%2F1.15.8%22%3Bs%3A17%3A%22GATEWAY_INTERFACE%22%3Bs%3A7%3A%22CGI%2F1.1%22%3Bs%3A5%3A%22HTTPS%22%3Bs%3A2%3A%22on%22%3Bs%3A14%3A%22REQUEST_SCHEME%22%3Bs%3A5%3A%22https%22%3Bs%3A15%3A%22SERVER_PROTOCOL%22%3Bs%3A8%3A%22HTTP%2F1.1%22%3Bs%3A13%3A%22DOCUMENT_ROOT%22%3Bs%3A16%3A%22%2Fvar%2Fwww%2Fkeitaro%22%3Bs%3A12%3A%22DOCUMENT_URI%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A11%3A%22REQUEST_URI%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A11%3A%22SCRIPT_NAME%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A14%3A%22CONTENT_LENGTH%22%3Bs%3A4%3A%222165%22%3Bs%3A12%3A%22CONTENT_TYPE%22%3Bs%3A33%3A%22application%2Fx-www-form-urlencoded%22%3Bs%3A14%3A%22REQUEST_METHOD%22%3Bs%3A4%3A%22POST%22%3Bs%3A12%3A%22QUERY_STRING%22%3Bs%3A0%3A%22%22%3Bs%3A15%3A%22SCRIPT_FILENAME%22%3Bs%3A83%3A%22%2Fvar%2Fwww%2Fkeitaro%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A9%3A%22FCGI_ROLE%22%3Bs%3A9%3A%22RESPONDER%22%3Bs%3A8%3A%22PHP_SELF%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A18%3A%22REQUEST_TIME_FLOAT%22%3Bd%3A1761316951.521509%3Bs%3A12%3A%22REQUEST_TIME%22%3Bi%3A1761316951%3B%7D",
+        "utm_source": "",
+        "utm_medium": "",
+        "utm_term": "",
+        "utm_content": "",
+        "utm_campaign": "",
+        "additional_1": "",
+        "additional_2": "",
+        "additional_3": "",
+        "additional_4": ""
+    }
+}
+--------------------------------------------------------------------------------
+RESPONSE: {
+    "timestamp": "2025-10-24 14:42:32",
+    "order_id": "1761316951595566",
+    "http_code": 200,
+    "curl_error": "немає",
+    "response": {
+        "status": "error",
+        "message": [
+            "Дублирующая заявка"
+        ]
+    }
+}
+
+
+2025-10-24 14:51:45 | NEW ORDER
+{
+    "timestamp": "2025-10-24 14:51:45",
+    "order_id": "1761317505084583",
+    "name": "потенция петя",
+    "phone": "+380501111111",
+    "country": "UA (авто-визначено по IP: 178.151.84.219)",
+    "api_key_set": "ТАК",
+    "full_data": {
+        "key": "63f1bda9312c1cac1caa08614c01e7b3",
+        "order_id": "1761317505084583",
+        "country": "UA",
+        "office": "1",
+        "products": "a%3A1%3A%7Bi%3A0%3Ba%3A3%3A%7Bs%3A10%3A%22product_id%22%3Bs%3A1%3A%225%22%3Bs%3A5%3A%22price%22%3Bs%3A4%3A%221100%22%3Bs%3A5%3A%22count%22%3Bs%3A1%3A%221%22%3B%7D%7D",
+        "bayer_name": "потенция петя",
+        "phone": "+380501111111",
+        "email": "",
+        "comment": "",
+        "notification": "",
+        "delivery": "",
+        "delivery_adress": "",
+        "payment": "",
+        "sender": "a%3A46%3A%7Bs%3A4%3A%22USER%22%3Bs%3A7%3A%22keitaro%22%3Bs%3A4%3A%22HOME%22%3Bs%3A13%3A%22%2Fhome%2Fkeitaro%22%3Bs%3A11%3A%22HTTP_COOKIE%22%3Bs%3A529%3A%22_fbp%3Dfb.1.1757428558884.112100764301259668%3B+_fbc%3Dfb.1.1758202493100.%257Bfbclid%257D%3B+PHPSESSID%3Dp6kqmjuklg9udorj2op68shq76%3B+utm_source%3D%257B%257Bsite_source_name%257D%257D%3B+utm_campaign%3D%257B%257Bcampaign.name%257D%257D%3B+viewedOuibounceModal%3Dtrue%3B+_subid%3Drde3e21nh0u%3B+a7eb3%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRhIjoie1wic3RyZWFtc1wiOntcIjQ3N1wiOjE3NjEzMTc0MjN9LFwiY2FtcGFpZ25zXCI6e1wiMTkyXCI6MTc2MTMxNzQyM30sXCJ0aW1lXCI6MTc2MTMxNzQyM30ifQ.UYnQwLQNybQWRZ5pjCspSqN3A0FpllWD7dLpkeuuf2Y%3B+_token%3Duuid_rde3e21nh0u_rde3e21nh0u68fb922f287de3.93687912%22%3Bs%3A20%3A%22HTTP_ACCEPT_LANGUAGE%22%3Bs%3A65%3A%22ru-UA%2Cru%3Bq%3D0.9%2Cru-RU%3Bq%3D0.8%2Cen-US%3Bq%3D0.7%2Cen%3Bq%3D0.6%2Cuk%3Bq%3D0.5%2Cfr%3Bq%3D0.4%22%3Bs%3A20%3A%22HTTP_ACCEPT_ENCODING%22%3Bs%3A23%3A%22gzip%2C+deflate%2C+br%2C+zstd%22%3Bs%3A12%3A%22HTTP_REFERER%22%3Bs%3A249%3A%22https%3A%2F%2Fmrdick.online%2FYBNHRqfC%3Ffbclid%3D%7Bfbclid%7D%26utm_campaign%3D%7B%7Bcampaign.name%7D%7D%26utm_source%3D%7B%7Bsite_source_name%7D%7D%26utm_placement%3D%7B%7Bplacement%7D%7D%26campaign_id%3D%7B%7Bcampaign.id%7D%7D%26adset_id%3D%7B%7Badset.id%7D%7D%26ad_id%3D%7B%7Bad.id%7D%7D%26adset_name%3D%7B%7Badset.name%7D%7D%26ad_name%3D%7B%7Bad.name%7D%7D%22%3Bs%3A19%3A%22HTTP_SEC_FETCH_DEST%22%3Bs%3A8%3A%22document%22%3Bs%3A19%3A%22HTTP_SEC_FETCH_USER%22%3Bs%3A2%3A%22%3F1%22%3Bs%3A19%3A%22HTTP_SEC_FETCH_MODE%22%3Bs%3A8%3A%22navigate%22%3Bs%3A19%3A%22HTTP_SEC_FETCH_SITE%22%3Bs%3A11%3A%22same-origin%22%3Bs%3A11%3A%22HTTP_ACCEPT%22%3Bs%3A135%3A%22text%2Fhtml%2Capplication%2Fxhtml%2Bxml%2Capplication%2Fxml%3Bq%3D0.9%2Cimage%2Favif%2Cimage%2Fwebp%2Cimage%2Fapng%2C%2A%2F%2A%3Bq%3D0.8%2Capplication%2Fsigned-exchange%3Bv%3Db3%3Bq%3D0.7%22%3Bs%3A15%3A%22HTTP_USER_AGENT%22%3Bs%3A111%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F141.0.0.0+Safari%2F537.36%22%3Bs%3A30%3A%22HTTP_UPGRADE_INSECURE_REQUESTS%22%3Bs%3A1%3A%221%22%3Bs%3A17%3A%22HTTP_CONTENT_TYPE%22%3Bs%3A33%3A%22application%2Fx-www-form-urlencoded%22%3Bs%3A11%3A%22HTTP_ORIGIN%22%3Bs%3A21%3A%22https%3A%2F%2Fmrdick.online%22%3Bs%3A23%3A%22HTTP_SEC_CH_UA_PLATFORM%22%3Bs%3A9%3A%22%22Windows%22%22%3Bs%3A21%3A%22HTTP_SEC_CH_UA_MOBILE%22%3Bs%3A2%3A%22%3F0%22%3Bs%3A14%3A%22HTTP_SEC_CH_UA%22%3Bs%3A64%3A%22%22Google+Chrome%22%3Bv%3D%22141%22%2C+%22Not%3FA_Brand%22%3Bv%3D%228%22%2C+%22Chromium%22%3Bv%3D%22141%22%22%3Bs%3A18%3A%22HTTP_CACHE_CONTROL%22%3Bs%3A9%3A%22max-age%3D0%22%3Bs%3A19%3A%22HTTP_CONTENT_LENGTH%22%3Bs%3A4%3A%222205%22%3Bs%3A15%3A%22HTTP_CONNECTION%22%3Bs%3A10%3A%22keep-alive%22%3Bs%3A9%3A%22HTTP_HOST%22%3Bs%3A13%3A%22mrdick.online%22%3Bs%3A15%3A%22REDIRECT_STATUS%22%3Bs%3A3%3A%22200%22%3Bs%3A11%3A%22SERVER_NAME%22%3Bs%3A13%3A%22mrdick.online%22%3Bs%3A11%3A%22SERVER_PORT%22%3Bs%3A3%3A%22443%22%3Bs%3A11%3A%22SERVER_ADDR%22%3Bs%3A13%3A%22185.253.45.62%22%3Bs%3A11%3A%22REMOTE_PORT%22%3Bs%3A5%3A%2250139%22%3Bs%3A11%3A%22REMOTE_ADDR%22%3Bs%3A14%3A%22178.151.84.219%22%3Bs%3A15%3A%22SERVER_SOFTWARE%22%3Bs%3A12%3A%22nginx%2F1.15.8%22%3Bs%3A17%3A%22GATEWAY_INTERFACE%22%3Bs%3A7%3A%22CGI%2F1.1%22%3Bs%3A5%3A%22HTTPS%22%3Bs%3A2%3A%22on%22%3Bs%3A14%3A%22REQUEST_SCHEME%22%3Bs%3A5%3A%22https%22%3Bs%3A15%3A%22SERVER_PROTOCOL%22%3Bs%3A8%3A%22HTTP%2F1.1%22%3Bs%3A13%3A%22DOCUMENT_ROOT%22%3Bs%3A16%3A%22%2Fvar%2Fwww%2Fkeitaro%22%3Bs%3A12%3A%22DOCUMENT_URI%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A11%3A%22REQUEST_URI%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A11%3A%22SCRIPT_NAME%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A14%3A%22CONTENT_LENGTH%22%3Bs%3A4%3A%222205%22%3Bs%3A12%3A%22CONTENT_TYPE%22%3Bs%3A33%3A%22application%2Fx-www-form-urlencoded%22%3Bs%3A14%3A%22REQUEST_METHOD%22%3Bs%3A4%3A%22POST%22%3Bs%3A12%3A%22QUERY_STRING%22%3Bs%3A0%3A%22%22%3Bs%3A15%3A%22SCRIPT_FILENAME%22%3Bs%3A83%3A%22%2Fvar%2Fwww%2Fkeitaro%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A9%3A%22FCGI_ROLE%22%3Bs%3A9%3A%22RESPONDER%22%3Bs%3A8%3A%22PHP_SELF%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A18%3A%22REQUEST_TIME_FLOAT%22%3Bd%3A1761317504.961789%3Bs%3A12%3A%22REQUEST_TIME%22%3Bi%3A1761317504%3B%7D",
+        "utm_source": "",
+        "utm_medium": "",
+        "utm_term": "",
+        "utm_content": "",
+        "utm_campaign": "",
+        "additional_1": "",
+        "additional_2": "",
+        "additional_3": "",
+        "additional_4": ""
+    }
+}
+--------------------------------------------------------------------------------
+RESPONSE: {
+    "timestamp": "2025-10-24 14:51:46",
+    "order_id": "1761317505084583",
+    "http_code": 200,
+    "curl_error": "немає",
+    "response": {
+        "status": "ok",
+        "data": [
+            {
+                "id": "15",
+                "order_id": "1761317505084583",
+                "country": "UA",
+                "site": "mrdick.online",
+                "ip": "178.151.84.219"
+            }
+        ],
+        "message": [
+            "Заказ успешно добавлен"
+        ]
+    }
+}
+
+
+2025-10-24 15:21:00 | NEW ORDER
+{
+    "timestamp": "2025-10-24 15:21:00",
+    "order_id": "1761319260333173",
+    "name": "Таня",
+    "phone": "0937420114",
+    "country": "UA (авто-визначено по IP: 109.200.224.242)",
+    "api_key_set": "ТАК",
+    "full_data": {
+        "key": "63f1bda9312c1cac1caa08614c01e7b3",
+        "order_id": "1761319260333173",
+        "country": "UA",
+        "office": "1",
+        "products": "a%3A1%3A%7Bi%3A0%3Ba%3A3%3A%7Bs%3A10%3A%22product_id%22%3Bs%3A1%3A%225%22%3Bs%3A5%3A%22price%22%3Bs%3A4%3A%221100%22%3Bs%3A5%3A%22count%22%3Bs%3A1%3A%221%22%3B%7D%7D",
+        "bayer_name": "Таня",
+        "phone": "0937420114",
+        "email": "",
+        "comment": "",
+        "notification": "",
+        "delivery": "",
+        "delivery_adress": "",
+        "payment": "",
+        "sender": "a%3A40%3A%7Bs%3A4%3A%22USER%22%3Bs%3A7%3A%22keitaro%22%3Bs%3A4%3A%22HOME%22%3Bs%3A13%3A%22%2Fhome%2Fkeitaro%22%3Bs%3A11%3A%22HTTP_COOKIE%22%3Bs%3A117%3A%22PHPSESSID%3Dh8vqmncmmcmieoerfl4hs407ub%3B+utm_campaign%3D%257B%257Bcampaign.name%257D%257D%3B+utm_source%3D%257B%257Bsite_source_name%257D%257D%22%3Bs%3A19%3A%22HTTP_SEC_FETCH_DEST%22%3Bs%3A8%3A%22document%22%3Bs%3A15%3A%22HTTP_CONNECTION%22%3Bs%3A10%3A%22keep-alive%22%3Bs%3A19%3A%22HTTP_CONTENT_LENGTH%22%3Bs%3A4%3A%222145%22%3Bs%3A12%3A%22HTTP_REFERER%22%3Bs%3A317%3A%22https%3A%2F%2Fmrdick.online%2FYBNHRqfC%3Ffbclid%3D%257Bfbclid%257D%26utm_campaign%3D%257B%257Bcampaign.name%257D%257D%26utm_source%3D%257B%257Bsite_source_name%257D%257D%26utm_placement%3D%257B%257Bplacement%257D%257D%26campaign_id%3D%257B%257Bcampaign.id%257D%257D%26adset_id%3D%257B%257Badset.id%257D%257D%26ad_id%3D%257B%257Bad.id%257D%257D%26adset_name%3D%257B%257Badset.name%257D%257D%26ad_name%3D%257B%257Bad.name%257D%257D%22%3Bs%3A15%3A%22HTTP_USER_AGENT%22%3Bs%3A139%3A%22Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+18_6_2+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.6.2+Mobile%2F22G100+Safari%2F604.1%22%3Bs%3A11%3A%22HTTP_ORIGIN%22%3Bs%3A21%3A%22https%3A%2F%2Fmrdick.online%22%3Bs%3A17%3A%22HTTP_CONTENT_TYPE%22%3Bs%3A33%3A%22application%2Fx-www-form-urlencoded%22%3Bs%3A19%3A%22HTTP_SEC_FETCH_MODE%22%3Bs%3A8%3A%22navigate%22%3Bs%3A20%3A%22HTTP_ACCEPT_ENCODING%22%3Bs%3A17%3A%22gzip%2C+deflate%2C+br%22%3Bs%3A20%3A%22HTTP_ACCEPT_LANGUAGE%22%3Bs%3A2%3A%22ru%22%3Bs%3A19%3A%22HTTP_SEC_FETCH_SITE%22%3Bs%3A11%3A%22same-origin%22%3Bs%3A11%3A%22HTTP_ACCEPT%22%3Bs%3A63%3A%22text%2Fhtml%2Capplication%2Fxhtml%2Bxml%2Capplication%2Fxml%3Bq%3D0.9%2C%2A%2F%2A%3Bq%3D0.8%22%3Bs%3A9%3A%22HTTP_HOST%22%3Bs%3A13%3A%22mrdick.online%22%3Bs%3A15%3A%22REDIRECT_STATUS%22%3Bs%3A3%3A%22200%22%3Bs%3A11%3A%22SERVER_NAME%22%3Bs%3A13%3A%22mrdick.online%22%3Bs%3A11%3A%22SERVER_PORT%22%3Bs%3A3%3A%22443%22%3Bs%3A11%3A%22SERVER_ADDR%22%3Bs%3A13%3A%22185.253.45.62%22%3Bs%3A11%3A%22REMOTE_PORT%22%3Bs%3A5%3A%2254055%22%3Bs%3A11%3A%22REMOTE_ADDR%22%3Bs%3A15%3A%22109.200.224.242%22%3Bs%3A15%3A%22SERVER_SOFTWARE%22%3Bs%3A12%3A%22nginx%2F1.15.8%22%3Bs%3A17%3A%22GATEWAY_INTERFACE%22%3Bs%3A7%3A%22CGI%2F1.1%22%3Bs%3A5%3A%22HTTPS%22%3Bs%3A2%3A%22on%22%3Bs%3A14%3A%22REQUEST_SCHEME%22%3Bs%3A5%3A%22https%22%3Bs%3A15%3A%22SERVER_PROTOCOL%22%3Bs%3A8%3A%22HTTP%2F1.1%22%3Bs%3A13%3A%22DOCUMENT_ROOT%22%3Bs%3A16%3A%22%2Fvar%2Fwww%2Fkeitaro%22%3Bs%3A12%3A%22DOCUMENT_URI%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A11%3A%22REQUEST_URI%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A11%3A%22SCRIPT_NAME%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A14%3A%22CONTENT_LENGTH%22%3Bs%3A4%3A%222145%22%3Bs%3A12%3A%22CONTENT_TYPE%22%3Bs%3A33%3A%22application%2Fx-www-form-urlencoded%22%3Bs%3A14%3A%22REQUEST_METHOD%22%3Bs%3A4%3A%22POST%22%3Bs%3A12%3A%22QUERY_STRING%22%3Bs%3A0%3A%22%22%3Bs%3A15%3A%22SCRIPT_FILENAME%22%3Bs%3A83%3A%22%2Fvar%2Fwww%2Fkeitaro%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A9%3A%22FCGI_ROLE%22%3Bs%3A9%3A%22RESPONDER%22%3Bs%3A8%3A%22PHP_SELF%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A18%3A%22REQUEST_TIME_FLOAT%22%3Bd%3A1761319260.249636%3Bs%3A12%3A%22REQUEST_TIME%22%3Bi%3A1761319260%3B%7D",
+        "utm_source": "",
+        "utm_medium": "",
+        "utm_term": "",
+        "utm_content": "",
+        "utm_campaign": "",
+        "additional_1": "",
+        "additional_2": "",
+        "additional_3": "",
+        "additional_4": ""
+    }
+}
+--------------------------------------------------------------------------------
+RESPONSE: {
+    "timestamp": "2025-10-24 15:21:01",
+    "order_id": "1761319260333173",
+    "http_code": 200,
+    "curl_error": "немає",
+    "response": {
+        "status": "error",
+        "message": [
+            "Дублирующая заявка"
+        ]
+    }
+}
+
+
+2025-10-24 15:21:01 | NEW ORDER
+{
+    "timestamp": "2025-10-24 15:21:01",
+    "order_id": "1761319261513345",
+    "name": "Таня",
+    "phone": "0937420114",
+    "country": "UA (авто-визначено по IP: 109.200.224.242)",
+    "api_key_set": "ТАК",
+    "full_data": {
+        "key": "63f1bda9312c1cac1caa08614c01e7b3",
+        "order_id": "1761319261513345",
+        "country": "UA",
+        "office": "1",
+        "products": "a%3A1%3A%7Bi%3A0%3Ba%3A3%3A%7Bs%3A10%3A%22product_id%22%3Bs%3A1%3A%225%22%3Bs%3A5%3A%22price%22%3Bs%3A4%3A%221100%22%3Bs%3A5%3A%22count%22%3Bs%3A1%3A%221%22%3B%7D%7D",
+        "bayer_name": "Таня",
+        "phone": "0937420114",
+        "email": "",
+        "comment": "",
+        "notification": "",
+        "delivery": "",
+        "delivery_adress": "",
+        "payment": "",
+        "sender": "a%3A40%3A%7Bs%3A4%3A%22USER%22%3Bs%3A7%3A%22keitaro%22%3Bs%3A4%3A%22HOME%22%3Bs%3A13%3A%22%2Fhome%2Fkeitaro%22%3Bs%3A11%3A%22HTTP_COOKIE%22%3Bs%3A117%3A%22PHPSESSID%3Dh8vqmncmmcmieoerfl4hs407ub%3B+utm_campaign%3D%257B%257Bcampaign.name%257D%257D%3B+utm_source%3D%257B%257Bsite_source_name%257D%257D%22%3Bs%3A19%3A%22HTTP_SEC_FETCH_DEST%22%3Bs%3A8%3A%22document%22%3Bs%3A15%3A%22HTTP_CONNECTION%22%3Bs%3A10%3A%22keep-alive%22%3Bs%3A19%3A%22HTTP_CONTENT_LENGTH%22%3Bs%3A4%3A%222145%22%3Bs%3A12%3A%22HTTP_REFERER%22%3Bs%3A317%3A%22https%3A%2F%2Fmrdick.online%2FYBNHRqfC%3Ffbclid%3D%257Bfbclid%257D%26utm_campaign%3D%257B%257Bcampaign.name%257D%257D%26utm_source%3D%257B%257Bsite_source_name%257D%257D%26utm_placement%3D%257B%257Bplacement%257D%257D%26campaign_id%3D%257B%257Bcampaign.id%257D%257D%26adset_id%3D%257B%257Badset.id%257D%257D%26ad_id%3D%257B%257Bad.id%257D%257D%26adset_name%3D%257B%257Badset.name%257D%257D%26ad_name%3D%257B%257Bad.name%257D%257D%22%3Bs%3A15%3A%22HTTP_USER_AGENT%22%3Bs%3A139%3A%22Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+18_6_2+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.6.2+Mobile%2F22G100+Safari%2F604.1%22%3Bs%3A11%3A%22HTTP_ORIGIN%22%3Bs%3A21%3A%22https%3A%2F%2Fmrdick.online%22%3Bs%3A17%3A%22HTTP_CONTENT_TYPE%22%3Bs%3A33%3A%22application%2Fx-www-form-urlencoded%22%3Bs%3A19%3A%22HTTP_SEC_FETCH_MODE%22%3Bs%3A8%3A%22navigate%22%3Bs%3A20%3A%22HTTP_ACCEPT_ENCODING%22%3Bs%3A17%3A%22gzip%2C+deflate%2C+br%22%3Bs%3A20%3A%22HTTP_ACCEPT_LANGUAGE%22%3Bs%3A2%3A%22ru%22%3Bs%3A19%3A%22HTTP_SEC_FETCH_SITE%22%3Bs%3A11%3A%22same-origin%22%3Bs%3A11%3A%22HTTP_ACCEPT%22%3Bs%3A63%3A%22text%2Fhtml%2Capplication%2Fxhtml%2Bxml%2Capplication%2Fxml%3Bq%3D0.9%2C%2A%2F%2A%3Bq%3D0.8%22%3Bs%3A9%3A%22HTTP_HOST%22%3Bs%3A13%3A%22mrdick.online%22%3Bs%3A15%3A%22REDIRECT_STATUS%22%3Bs%3A3%3A%22200%22%3Bs%3A11%3A%22SERVER_NAME%22%3Bs%3A13%3A%22mrdick.online%22%3Bs%3A11%3A%22SERVER_PORT%22%3Bs%3A3%3A%22443%22%3Bs%3A11%3A%22SERVER_ADDR%22%3Bs%3A13%3A%22185.253.45.62%22%3Bs%3A11%3A%22REMOTE_PORT%22%3Bs%3A5%3A%2254056%22%3Bs%3A11%3A%22REMOTE_ADDR%22%3Bs%3A15%3A%22109.200.224.242%22%3Bs%3A15%3A%22SERVER_SOFTWARE%22%3Bs%3A12%3A%22nginx%2F1.15.8%22%3Bs%3A17%3A%22GATEWAY_INTERFACE%22%3Bs%3A7%3A%22CGI%2F1.1%22%3Bs%3A5%3A%22HTTPS%22%3Bs%3A2%3A%22on%22%3Bs%3A14%3A%22REQUEST_SCHEME%22%3Bs%3A5%3A%22https%22%3Bs%3A15%3A%22SERVER_PROTOCOL%22%3Bs%3A8%3A%22HTTP%2F1.1%22%3Bs%3A13%3A%22DOCUMENT_ROOT%22%3Bs%3A16%3A%22%2Fvar%2Fwww%2Fkeitaro%22%3Bs%3A12%3A%22DOCUMENT_URI%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A11%3A%22REQUEST_URI%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A11%3A%22SCRIPT_NAME%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A14%3A%22CONTENT_LENGTH%22%3Bs%3A4%3A%222145%22%3Bs%3A12%3A%22CONTENT_TYPE%22%3Bs%3A33%3A%22application%2Fx-www-form-urlencoded%22%3Bs%3A14%3A%22REQUEST_METHOD%22%3Bs%3A4%3A%22POST%22%3Bs%3A12%3A%22QUERY_STRING%22%3Bs%3A0%3A%22%22%3Bs%3A15%3A%22SCRIPT_FILENAME%22%3Bs%3A83%3A%22%2Fvar%2Fwww%2Fkeitaro%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A9%3A%22FCGI_ROLE%22%3Bs%3A9%3A%22RESPONDER%22%3Bs%3A8%3A%22PHP_SELF%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A18%3A%22REQUEST_TIME_FLOAT%22%3Bd%3A1761319261.542424%3Bs%3A12%3A%22REQUEST_TIME%22%3Bi%3A1761319261%3B%7D",
+        "utm_source": "",
+        "utm_medium": "",
+        "utm_term": "",
+        "utm_content": "",
+        "utm_campaign": "",
+        "additional_1": "",
+        "additional_2": "",
+        "additional_3": "",
+        "additional_4": ""
+    }
+}
+--------------------------------------------------------------------------------
+RESPONSE: {
+    "timestamp": "2025-10-24 15:21:02",
+    "order_id": "1761319261513345",
+    "http_code": 200,
+    "curl_error": "немає",
+    "response": {
+        "status": "error",
+        "message": [
+            "Дублирующая заявка"
+        ]
+    }
+}
+
+
+2025-10-24 15:21:03 | NEW ORDER
+{
+    "timestamp": "2025-10-24 15:21:03",
+    "order_id": "1761319263016717",
+    "name": "Таня",
+    "phone": "0937420114",
+    "country": "UA (авто-визначено по IP: 109.200.224.242)",
+    "api_key_set": "ТАК",
+    "full_data": {
+        "key": "63f1bda9312c1cac1caa08614c01e7b3",
+        "order_id": "1761319263016717",
+        "country": "UA",
+        "office": "1",
+        "products": "a%3A1%3A%7Bi%3A0%3Ba%3A3%3A%7Bs%3A10%3A%22product_id%22%3Bs%3A1%3A%225%22%3Bs%3A5%3A%22price%22%3Bs%3A4%3A%221100%22%3Bs%3A5%3A%22count%22%3Bs%3A1%3A%221%22%3B%7D%7D",
+        "bayer_name": "Таня",
+        "phone": "0937420114",
+        "email": "",
+        "comment": "",
+        "notification": "",
+        "delivery": "",
+        "delivery_adress": "",
+        "payment": "",
+        "sender": "a%3A40%3A%7Bs%3A4%3A%22USER%22%3Bs%3A7%3A%22keitaro%22%3Bs%3A4%3A%22HOME%22%3Bs%3A13%3A%22%2Fhome%2Fkeitaro%22%3Bs%3A11%3A%22HTTP_COOKIE%22%3Bs%3A117%3A%22PHPSESSID%3Dh8vqmncmmcmieoerfl4hs407ub%3B+utm_campaign%3D%257B%257Bcampaign.name%257D%257D%3B+utm_source%3D%257B%257Bsite_source_name%257D%257D%22%3Bs%3A19%3A%22HTTP_SEC_FETCH_DEST%22%3Bs%3A8%3A%22document%22%3Bs%3A15%3A%22HTTP_CONNECTION%22%3Bs%3A10%3A%22keep-alive%22%3Bs%3A19%3A%22HTTP_CONTENT_LENGTH%22%3Bs%3A4%3A%222145%22%3Bs%3A12%3A%22HTTP_REFERER%22%3Bs%3A317%3A%22https%3A%2F%2Fmrdick.online%2FYBNHRqfC%3Ffbclid%3D%257Bfbclid%257D%26utm_campaign%3D%257B%257Bcampaign.name%257D%257D%26utm_source%3D%257B%257Bsite_source_name%257D%257D%26utm_placement%3D%257B%257Bplacement%257D%257D%26campaign_id%3D%257B%257Bcampaign.id%257D%257D%26adset_id%3D%257B%257Badset.id%257D%257D%26ad_id%3D%257B%257Bad.id%257D%257D%26adset_name%3D%257B%257Badset.name%257D%257D%26ad_name%3D%257B%257Bad.name%257D%257D%22%3Bs%3A15%3A%22HTTP_USER_AGENT%22%3Bs%3A139%3A%22Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+18_6_2+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.6.2+Mobile%2F22G100+Safari%2F604.1%22%3Bs%3A11%3A%22HTTP_ORIGIN%22%3Bs%3A21%3A%22https%3A%2F%2Fmrdick.online%22%3Bs%3A17%3A%22HTTP_CONTENT_TYPE%22%3Bs%3A33%3A%22application%2Fx-www-form-urlencoded%22%3Bs%3A19%3A%22HTTP_SEC_FETCH_MODE%22%3Bs%3A8%3A%22navigate%22%3Bs%3A20%3A%22HTTP_ACCEPT_ENCODING%22%3Bs%3A17%3A%22gzip%2C+deflate%2C+br%22%3Bs%3A20%3A%22HTTP_ACCEPT_LANGUAGE%22%3Bs%3A2%3A%22ru%22%3Bs%3A19%3A%22HTTP_SEC_FETCH_SITE%22%3Bs%3A11%3A%22same-origin%22%3Bs%3A11%3A%22HTTP_ACCEPT%22%3Bs%3A63%3A%22text%2Fhtml%2Capplication%2Fxhtml%2Bxml%2Capplication%2Fxml%3Bq%3D0.9%2C%2A%2F%2A%3Bq%3D0.8%22%3Bs%3A9%3A%22HTTP_HOST%22%3Bs%3A13%3A%22mrdick.online%22%3Bs%3A15%3A%22REDIRECT_STATUS%22%3Bs%3A3%3A%22200%22%3Bs%3A11%3A%22SERVER_NAME%22%3Bs%3A13%3A%22mrdick.online%22%3Bs%3A11%3A%22SERVER_PORT%22%3Bs%3A3%3A%22443%22%3Bs%3A11%3A%22SERVER_ADDR%22%3Bs%3A13%3A%22185.253.45.62%22%3Bs%3A11%3A%22REMOTE_PORT%22%3Bs%3A5%3A%2254057%22%3Bs%3A11%3A%22REMOTE_ADDR%22%3Bs%3A15%3A%22109.200.224.242%22%3Bs%3A15%3A%22SERVER_SOFTWARE%22%3Bs%3A12%3A%22nginx%2F1.15.8%22%3Bs%3A17%3A%22GATEWAY_INTERFACE%22%3Bs%3A7%3A%22CGI%2F1.1%22%3Bs%3A5%3A%22HTTPS%22%3Bs%3A2%3A%22on%22%3Bs%3A14%3A%22REQUEST_SCHEME%22%3Bs%3A5%3A%22https%22%3Bs%3A15%3A%22SERVER_PROTOCOL%22%3Bs%3A8%3A%22HTTP%2F1.1%22%3Bs%3A13%3A%22DOCUMENT_ROOT%22%3Bs%3A16%3A%22%2Fvar%2Fwww%2Fkeitaro%22%3Bs%3A12%3A%22DOCUMENT_URI%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A11%3A%22REQUEST_URI%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A11%3A%22SCRIPT_NAME%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A14%3A%22CONTENT_LENGTH%22%3Bs%3A4%3A%222145%22%3Bs%3A12%3A%22CONTENT_TYPE%22%3Bs%3A33%3A%22application%2Fx-www-form-urlencoded%22%3Bs%3A14%3A%22REQUEST_METHOD%22%3Bs%3A4%3A%22POST%22%3Bs%3A12%3A%22QUERY_STRING%22%3Bs%3A0%3A%22%22%3Bs%3A15%3A%22SCRIPT_FILENAME%22%3Bs%3A83%3A%22%2Fvar%2Fwww%2Fkeitaro%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A9%3A%22FCGI_ROLE%22%3Bs%3A9%3A%22RESPONDER%22%3Bs%3A8%3A%22PHP_SELF%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A18%3A%22REQUEST_TIME_FLOAT%22%3Bd%3A1761319262.981953%3Bs%3A12%3A%22REQUEST_TIME%22%3Bi%3A1761319262%3B%7D",
+        "utm_source": "",
+        "utm_medium": "",
+        "utm_term": "",
+        "utm_content": "",
+        "utm_campaign": "",
+        "additional_1": "",
+        "additional_2": "",
+        "additional_3": "",
+        "additional_4": ""
+    }
+}
+--------------------------------------------------------------------------------
+RESPONSE: {
+    "timestamp": "2025-10-24 15:21:04",
+    "order_id": "1761319263016717",
+    "http_code": 200,
+    "curl_error": "немає",
+    "response": {
+        "status": "error",
+        "message": [
+            "Дублирующая заявка"
+        ]
+    }
+}
+
+
+2025-10-24 15:46:51 | NEW ORDER
+{
+    "timestamp": "2025-10-24 15:46:51",
+    "order_id": "1761320811959383",
+    "name": "Потенция ещё раз",
+    "phone": "0933333332",
+    "country": "UA (авто-визначено по IP: 178.151.84.219)",
+    "api_key_set": "ТАК",
+    "full_data": {
+        "key": "63f1bda9312c1cac1caa08614c01e7b3",
+        "order_id": "1761320811959383",
+        "country": "UA",
+        "office": "1",
+        "products": "a%3A1%3A%7Bi%3A0%3Ba%3A3%3A%7Bs%3A10%3A%22product_id%22%3Bs%3A1%3A%225%22%3Bs%3A5%3A%22price%22%3Bs%3A4%3A%221100%22%3Bs%3A5%3A%22count%22%3Bs%3A1%3A%221%22%3B%7D%7D",
+        "bayer_name": "Потенция ещё раз",
+        "phone": "0933333332",
+        "email": "",
+        "comment": "",
+        "notification": "",
+        "delivery": "",
+        "delivery_adress": "",
+        "payment": "",
+        "sender": "a%3A47%3A%7Bs%3A4%3A%22USER%22%3Bs%3A7%3A%22keitaro%22%3Bs%3A4%3A%22HOME%22%3Bs%3A13%3A%22%2Fhome%2Fkeitaro%22%3Bs%3A11%3A%22HTTP_COOKIE%22%3Bs%3A117%3A%22PHPSESSID%3Do6figrlnm6ue7qtgjolvt0c56j%3B+utm_source%3D%257B%257Bsite_source_name%257D%257D%3B+utm_campaign%3D%257B%257Bcampaign.name%257D%257D%22%3Bs%3A20%3A%22HTTP_ACCEPT_LANGUAGE%22%3Bs%3A35%3A%22uk%2Cuk-UA%3Bq%3D0.9%2Cen-US%3Bq%3D0.8%2Cen%3Bq%3D0.7%22%3Bs%3A20%3A%22HTTP_ACCEPT_ENCODING%22%3Bs%3A23%3A%22gzip%2C+deflate%2C+br%2C+zstd%22%3Bs%3A12%3A%22HTTP_REFERER%22%3Bs%3A249%3A%22https%3A%2F%2Fmrdick.online%2FYBNHRqfC%3Ffbclid%3D%7Bfbclid%7D%26utm_campaign%3D%7B%7Bcampaign.name%7D%7D%26utm_source%3D%7B%7Bsite_source_name%7D%7D%26utm_placement%3D%7B%7Bplacement%7D%7D%26campaign_id%3D%7B%7Bcampaign.id%7D%7D%26adset_id%3D%7B%7Badset.id%7D%7D%26ad_id%3D%7B%7Bad.id%7D%7D%26adset_name%3D%7B%7Badset.name%7D%7D%26ad_name%3D%7B%7Bad.name%7D%7D%22%3Bs%3A19%3A%22HTTP_SEC_FETCH_DEST%22%3Bs%3A8%3A%22document%22%3Bs%3A19%3A%22HTTP_SEC_FETCH_USER%22%3Bs%3A2%3A%22%3F1%22%3Bs%3A19%3A%22HTTP_SEC_FETCH_MODE%22%3Bs%3A8%3A%22navigate%22%3Bs%3A19%3A%22HTTP_SEC_FETCH_SITE%22%3Bs%3A11%3A%22same-origin%22%3Bs%3A21%3A%22HTTP_X_REQUESTED_WITH%22%3Bs%3A22%3A%22org.telegram.messenger%22%3Bs%3A11%3A%22HTTP_ACCEPT%22%3Bs%3A135%3A%22text%2Fhtml%2Capplication%2Fxhtml%2Bxml%2Capplication%2Fxml%3Bq%3D0.9%2Cimage%2Favif%2Cimage%2Fwebp%2Cimage%2Fapng%2C%2A%2F%2A%3Bq%3D0.8%2Capplication%2Fsigned-exchange%3Bv%3Db3%3Bq%3D0.7%22%3Bs%3A15%3A%22HTTP_USER_AGENT%22%3Bs%3A115%3A%22Mozilla%2F5.0+%28Linux%3B+Android+13%3B+K%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F141.0.7390.97+Mobile+Safari%2F537.36%22%3Bs%3A30%3A%22HTTP_UPGRADE_INSECURE_REQUESTS%22%3Bs%3A1%3A%221%22%3Bs%3A17%3A%22HTTP_CONTENT_TYPE%22%3Bs%3A33%3A%22application%2Fx-www-form-urlencoded%22%3Bs%3A11%3A%22HTTP_ORIGIN%22%3Bs%3A21%3A%22https%3A%2F%2Fmrdick.online%22%3Bs%3A23%3A%22HTTP_SEC_CH_UA_PLATFORM%22%3Bs%3A9%3A%22%22Android%22%22%3Bs%3A21%3A%22HTTP_SEC_CH_UA_MOBILE%22%3Bs%3A2%3A%22%3F1%22%3Bs%3A14%3A%22HTTP_SEC_CH_UA%22%3Bs%3A66%3A%22%22Android+WebView%22%3Bv%3D%22141%22%2C+%22Not%3FA_Brand%22%3Bv%3D%228%22%2C+%22Chromium%22%3Bv%3D%22141%22%22%3Bs%3A18%3A%22HTTP_CACHE_CONTROL%22%3Bs%3A9%3A%22max-age%3D0%22%3Bs%3A19%3A%22HTTP_CONTENT_LENGTH%22%3Bs%3A4%3A%222214%22%3Bs%3A15%3A%22HTTP_CONNECTION%22%3Bs%3A10%3A%22keep-alive%22%3Bs%3A9%3A%22HTTP_HOST%22%3Bs%3A13%3A%22mrdick.online%22%3Bs%3A15%3A%22REDIRECT_STATUS%22%3Bs%3A3%3A%22200%22%3Bs%3A11%3A%22SERVER_NAME%22%3Bs%3A13%3A%22mrdick.online%22%3Bs%3A11%3A%22SERVER_PORT%22%3Bs%3A3%3A%22443%22%3Bs%3A11%3A%22SERVER_ADDR%22%3Bs%3A13%3A%22185.253.45.62%22%3Bs%3A11%3A%22REMOTE_PORT%22%3Bs%3A5%3A%2253840%22%3Bs%3A11%3A%22REMOTE_ADDR%22%3Bs%3A14%3A%22178.151.84.219%22%3Bs%3A15%3A%22SERVER_SOFTWARE%22%3Bs%3A12%3A%22nginx%2F1.15.8%22%3Bs%3A17%3A%22GATEWAY_INTERFACE%22%3Bs%3A7%3A%22CGI%2F1.1%22%3Bs%3A5%3A%22HTTPS%22%3Bs%3A2%3A%22on%22%3Bs%3A14%3A%22REQUEST_SCHEME%22%3Bs%3A5%3A%22https%22%3Bs%3A15%3A%22SERVER_PROTOCOL%22%3Bs%3A8%3A%22HTTP%2F1.1%22%3Bs%3A13%3A%22DOCUMENT_ROOT%22%3Bs%3A16%3A%22%2Fvar%2Fwww%2Fkeitaro%22%3Bs%3A12%3A%22DOCUMENT_URI%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A11%3A%22REQUEST_URI%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A11%3A%22SCRIPT_NAME%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A14%3A%22CONTENT_LENGTH%22%3Bs%3A4%3A%222214%22%3Bs%3A12%3A%22CONTENT_TYPE%22%3Bs%3A33%3A%22application%2Fx-www-form-urlencoded%22%3Bs%3A14%3A%22REQUEST_METHOD%22%3Bs%3A4%3A%22POST%22%3Bs%3A12%3A%22QUERY_STRING%22%3Bs%3A0%3A%22%22%3Bs%3A15%3A%22SCRIPT_FILENAME%22%3Bs%3A83%3A%22%2Fvar%2Fwww%2Fkeitaro%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A9%3A%22FCGI_ROLE%22%3Bs%3A9%3A%22RESPONDER%22%3Bs%3A8%3A%22PHP_SELF%22%3Bs%3A67%3A%22%2Flander%2Fhammer-of-thor--top-blog--egipet_1760692327%2Fapi%2Fsuccess.php%22%3Bs%3A18%3A%22REQUEST_TIME_FLOAT%22%3Bd%3A1761320811.907511%3Bs%3A12%3A%22REQUEST_TIME%22%3Bi%3A1761320811%3B%7D",
+        "utm_source": "",
+        "utm_medium": "",
+        "utm_term": "",
+        "utm_content": "",
+        "utm_campaign": "",
+        "additional_1": "",
+        "additional_2": "",
+        "additional_3": "",
+        "additional_4": ""
+    }
+}
+--------------------------------------------------------------------------------
+RESPONSE: {
+    "timestamp": "2025-10-24 15:46:53",
+    "order_id": "1761320811959383",
+    "http_code": 200,
+    "curl_error": "немає",
+    "response": {
+        "status": "ok",
+        "data": [
+            {
+                "id": "16",
+                "order_id": "1761320811959383",
+                "country": "UA",
+                "site": "mrdick.online",
+                "ip": "178.151.84.219"
+            }
+        ],
+        "message": [
+            "Заказ успешно добавлен"
+        ]
+    }
+}
+
